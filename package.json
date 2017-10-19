@@ -1,0 +1,17 @@
+{
+    "name": "safety-first-dubhacks",
+    "description": "dubhacks app",
+    "version": "0.1.0",
+    "main": "server",
+    "engines": {
+        "node": ">=0.10.22"
+    },
+    "dependencies": {
+        "async": "^1.4.2",
+        "express": "^4.10.6"
+    },
+    "author": {
+        "name": "Gianluca Vaccarini",
+        "email": "lucav17@uw.edu"
+    }
+}
